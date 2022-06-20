@@ -1,3 +1,5 @@
 *.class
 out.png
 .vscode/settings.json
+\obj
+\bin
